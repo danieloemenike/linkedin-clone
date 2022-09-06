@@ -17,9 +17,7 @@ export default NextAuth({
   ],
   adapter: MongoDBAdapter(clientPromise),
   secret: process.env.JWT_SECRET,
-  pages:{
-    signIn:"/home" //this is whr the auth takes place
-  },
+
 
  
 })
