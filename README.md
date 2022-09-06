@@ -2,7 +2,7 @@
 
 ## This Linkedin Clone website is being impemented using NextJs, MongoDB and NextAuth feature
 
-##The Landing Page is at /home of your localhost. Implemented Next-Auth for the Sign-in
+### The Landing Page is at /home of your localhost. Implemented Next-Auth for the Sign-in
 
 First, run the development server:
 
@@ -15,5 +15,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-####Still under development
+#### Still under development
 
